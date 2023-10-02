@@ -66,8 +66,9 @@ gap: 40px;
 
 
 .header-link-item {
+    padding: 24px 0;
 color: #2e2f42; 
-padding: 24px 0 24px;
+
 } 
 
 .header-social-link {
@@ -91,12 +92,13 @@ font-style: normal;
 
 }
 .header-address-link {
+    display: flex;
+    gap: 40px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    display: flex;
-    gap: 40px;
+   
     
 }
 .header-address-contact-link{
@@ -268,6 +270,12 @@ text-transform: capitalize;
 color:#2e2f42;
 margin-bottom: 72px;
 
+}
+.container-main-portfolio-list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 
 .container-main-portfolio-item{
