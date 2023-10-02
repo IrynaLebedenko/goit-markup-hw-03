@@ -88,7 +88,7 @@ color:#404bbf;
 
 }
 .header-address {
-font-style: normal;
+
 
 }
 .header-address-link {
@@ -102,19 +102,17 @@ font-style: normal;
     
 }
 .header-address-contact-link{
-    margin-left: ;
+    
 }
 .header-address-contact-link {
     color: #434455;
     font-weight: 400;
 }
 
-.header-address-contact-link:hover {
+.header-address-contact-link:hover, .header-address-contact-link:focus {
 color: #404bbf;
 }
-.header-address-contact-link:focus {
-color: #404bbf;
-}
+
 
 
 .header-address {
