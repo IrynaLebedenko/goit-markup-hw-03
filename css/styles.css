@@ -97,7 +97,8 @@ color:#404bbf;
 
 .header-address {
     justify-content: flex-end;
-    margin-left: 332px;
+    margin-left: auto;
+    font-style: normal;
 }
 
 .header-address-link {
@@ -125,12 +126,8 @@ color: #404bbf;
 
 
 
-.header-address {
-}
-address{
-    display: flex;
-    font-style: italic;
-}
+
+
 .header-address-link {
     margin: auto;
     display: flex;
