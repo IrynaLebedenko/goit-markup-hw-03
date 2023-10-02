@@ -93,10 +93,12 @@ color:#404bbf;
  color:#404bbf;
 
 }
+
 .header-address {
     justify-content: flex-end;
     margin-left: 332px;
 }
+
 .header-address-link {
     
     font-weight: 500;
@@ -105,10 +107,9 @@ color:#404bbf;
     letter-spacing: 0.02em;
 
     display: flex;
-    gap: 40px;
-    
-    
+    gap: 40px;  
 }
+
 .header-address-contact-link{
     
 }
