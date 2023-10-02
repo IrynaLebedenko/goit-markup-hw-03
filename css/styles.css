@@ -63,6 +63,7 @@ gap: 40px;
 }
 .navigation{
     display: flex;
+    align-items: center;
 }
 .header-link-item {
    
