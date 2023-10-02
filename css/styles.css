@@ -61,14 +61,14 @@ display: flex;
 gap: 40px;
 
 }
+
 .navigation{
-    display: flex;
-    align-items: center;
+display: flex;
+align-items: center;
 }
+
 .header-link-item {
-   
-    color: #2e2f42; 
-    
+   color: #2e2f42; 
     } 
 
 
