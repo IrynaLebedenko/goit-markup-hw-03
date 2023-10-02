@@ -31,9 +31,10 @@ img{
     margin: 0 auto;
     padding: 0 15px
 }
-.navigation{
+.container-header{
     display: flex;
     align-items: center;
+    
     
 }
 
@@ -48,6 +49,7 @@ text-transform: uppercase;
 color: #4d5ae5;
 margin-right: 76px;
 display: flex;
+justify-content: center;
 
 }
 
@@ -57,8 +59,11 @@ color: #2e2f42;
 .header-link {
 display: flex;
 gap: 40px;
-}
 
+}
+.navigation{
+    display: flex;
+}
 .header-link-item {
    
     color: #2e2f42; 
@@ -120,10 +125,16 @@ color: #404bbf;
 
 .header-address {
 }
+address{
+    display: flex;
+    font-style: italic;
+}
 .header-address-link {
     margin: auto;
     display: flex;
     gap: 40px;
+    justify-content: center;
+    
 }
 
 .main {
